@@ -6,6 +6,11 @@
 
 ## the setup
 ![Cover](https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-1/Pixton_Comic_Basic_Setup.png)
+
+## guide to setup a django project
+> https://realpython.com/django-setup/
+
+<br>
 The official source code for _Django for Beginners_.
 
 ![Cover](cover.jpg)
