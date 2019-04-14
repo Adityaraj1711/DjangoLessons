@@ -5,8 +5,7 @@
 > Using a Web framework, such as Django, enables us to develop secure and reliable Web applications very quickly in a standardized way, without having to reinvent the wheel.
 
 ## the setup
-(https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-1/Pixton_Comic_Basic_Setup.png)
-
+![Cover](https://simpleisbetterthancomplex.com/media/series/beginners-guide/1.11/part-1/Pixton_Comic_Basic_Setup.png)
 The official source code for _Django for Beginners_.
 
 ![Cover](cover.jpg)
