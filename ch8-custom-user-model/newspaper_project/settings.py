@@ -25,6 +25,7 @@ SECRET_KEY = '0!=n0kyc(ur=r3l0ej*76_bd3h_!iek$xry1yqq8a3=ry%j&kh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# set allowed host to ['*'] or with custom domain in production mode
 ALLOWED_HOSTS = []
 
 
